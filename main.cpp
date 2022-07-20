@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Egn.h"
+#include "src/Egn.h"
 
 int main()
 {
